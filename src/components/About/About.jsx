@@ -8,7 +8,7 @@ function About() {
     <div className='contenedor-about container-fluid' id='About'> 
         <h1>¿Quíenes somos?</h1>
         <div className='contenedor-acerca '>
-          <h2>Agencias de servicios para toda Cuba 89MillasAgency.</h2>
+          <h2>Agencias de servicios para toda Cuba CubanoShopAgency.</h2>
           <div className="redes">
             <a href="#" target='__blanck'><i class="bi bi-facebook"></i></a>
             <a href="#" target='__blanck'><i class="bi bi-instagram"></i></a>
