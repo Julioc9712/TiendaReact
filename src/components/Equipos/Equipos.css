@@ -1,0 +1,20 @@
+
+
+#card-equipos{
+    width: 400px;
+    margin-top: 20vh;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+#card-equipos img{
+    height: 380px;
+    
+}
+
+@media screen and (max-width:460px) {
+    #card-equipos{
+        width: 350px;
+    }
+}

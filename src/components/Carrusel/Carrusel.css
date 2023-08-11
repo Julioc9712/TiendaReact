@@ -1,0 +1,22 @@
+
+.slide img{
+    margin-top: 50px;
+    border-radius: 10px;
+    height: 65vh;
+    border: 1px white;
+
+}
+
+.carousel{
+    width: 70%;
+    margin: 50px auto;
+}
+
+@media screen and (max-width:600px){
+    .slide img{
+        height: 30VH;
+    }
+    .carousel{
+        width: 95%;
+    }
+}

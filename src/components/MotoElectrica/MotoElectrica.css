@@ -1,0 +1,19 @@
+.titulo-pinar{
+    align-items: center;
+    text-align: center;
+    margin-top: 20vh;
+    color: white;
+    text-shadow: 2px 1px #018baa;
+}
+
+.container-pinar{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 20vh;
+}
+
+.card img{
+    height: 400px;
+}

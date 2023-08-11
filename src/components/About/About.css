@@ -1,0 +1,128 @@
+.contenedor-about{
+    margin-top: 10rem;
+    text-align: left;
+    color: white;
+    margin-bottom: 10rem;
+}
+.contenedor-about h1{
+    color: white;
+    font-size: 70px;
+    margin-bottom: 5rem;
+    text-align: center;
+    text-shadow: 2px 2px rgb(6, 123, 231);
+}
+.contenedor-acerca{
+    display: block;
+    text-align: center;
+}
+.contenedor-acerca h2{
+    font-size: 40px;
+    text-shadow: 1px 1px rgb(6, 123, 231);
+    margin-bottom: 20px;
+    text-align: center;
+}
+.contenedor-acerca .redes a i{
+    padding: 10px;
+    font-size: 50px;
+    margin: 20px auto;
+    color: #018baa;
+    
+}
+.contenedor-acerca .redes a i:hover{
+    color: #03c6f1;
+}
+.contenedor-acerca p{
+    width: 50%;
+    margin:10px auto;
+    height: 200px;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px #018baa;
+}
+
+.logo img{
+    border: #018baa 5px solid;
+    width: 550px;
+    height: 600px;
+    margin: auto;
+    border-radius: 5px;
+    
+}
+
+.contenedor-info{
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10vh;
+   
+    
+}
+
+.info h2{
+    font-size: 50px;
+    color: #018baa;
+    margin-bottom: 10px;
+}
+
+.info p{
+    width: 650px;
+    font-size: 30px;
+    text-shadow: 2px 2px black;
+}
+
+.info h2 i{
+    margin-left: 5px;
+    align-items: center;
+}
+
+.info a{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
+.info a:hover{
+    color: #03c6f1;
+    text-decoration: underline;
+}
+
+@media screen and (max-width:1050px) {
+    .logo img{
+        width: 300px;
+        height: 350px;
+        border: #018baa 2PX solid;
+        
+    }
+    .info p{
+        width: 400px;
+    }
+    .contenedor-acerca p{
+        width: 80%;
+        height: 300px;
+        
+        
+    }
+}
+@media screen and (max-width:600px){
+    .contenedor-about h1{
+        width: 100%;
+        font-size: 40px;
+    }
+    .contenedor-about h2{
+        font-size: 35px;
+    }
+    .logo img{
+        width: 350px; 
+        margin-top: 25vh;
+    }
+    .info p{
+        width: 350px;
+    }
+    .info h2{
+        font-size: 35px;
+    }
+    .info p{
+        font-size: 25px;
+    }
+}

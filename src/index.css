@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Righteous';
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image: linear-gradient(to bottom, #252525 0%, black 100%) ;
+}
