@@ -10,8 +10,8 @@ function About() {
         <div className='contenedor-acerca '>
           <h2>Agencias de servicios para toda Cuba 89MillasAgency.</h2>
           <div className="redes">
-            <a href="https://www.facebook.com/89millasagency" target='__blanck'><i class="bi bi-facebook"></i></a>
-            <a href="https://www.instagram.com/89millasagency/?hl=es" target='__blanck'><i class="bi bi-instagram"></i></a>
+            <a href="#" target='__blanck'><i class="bi bi-facebook"></i></a>
+            <a href="#" target='__blanck'><i class="bi bi-instagram"></i></a>
             <a href="https://wa.me/+5352990719?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20sus%20servicios%20o%20productos" target='__blanck'><i class="bi bi-whatsapp"></i></a>
 
           </div> 
@@ -30,7 +30,7 @@ function About() {
           <p>
           juliocmr97@gmail.com</p>
           <h2>Link <i class="bi bi-box-arrow-up-right"></i></h2>
-          <a href="https://linktr.ee/89MillasAgency" target='__blanck'>CubanoShopAgency</a>
+          <a href="#" target='__blanck'>CubanoShopAgency</a>
           </div>
           
         </div>
