@@ -38,7 +38,7 @@ function CardServicio() {
             ¡Tenemos Ofertas para todos!👇 <br />
             ✅ Podrás escoger entre HOTELES y HOSTALES según tus gustos y presupuesto.🏨🏠 <br />
             ✅ Servicio de auto disponible con PRECIO PREFERENCIAL por ser cliente. 🚖 </p> <br />
-          <a href="https://wa.me/+5352990719?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20servicio%20de%20Paquete%20Turistico%20CubanoShoo" target='__blanck' class="btn btn-primary">Contactenos</a>
+          <a href="https://wa.me/+5352990719?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20servicio%20de%20Paquete%20Turistico%20CubanoShop" target='__blanck' class="btn btn-primary">Contactenos</a>
         </div>
       </div>
       <div class="card">
