@@ -20,6 +20,10 @@
 @media screen and (max-width:600px){
     .carousel-bg{
         width: 85%;
+        
+    }
+    .slide img{
+        height: 250px;
     }
     
     
