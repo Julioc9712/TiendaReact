@@ -7,7 +7,7 @@ function Header() {
   <div className='contenedor-nav'id='Home' > 
   <nav class="navbar navbar-expand-lg navbar navbar-dark ">
     <div class="container-fluid">
-      <a class="navbar-brand" href="https://linktr.ee/89MillasAgency" target='__blanck'><img class='icono' src='/images/icono.png' alt="" /></a>
+      <a class="navbar-brand" href="#" target='__blanck'><img class='icono' src='/images/icono.png' alt="" /></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>

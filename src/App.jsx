@@ -2,13 +2,13 @@ import React from 'react'
 import { createBrowserRouter,RouterProvider } from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css'
 // de cara a internet el de abajo es el que sirve
-// import 'bootstrap/dist/js/bootstrap.bundle.min.js'
+import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 // de cara a internet el de arriba es el que sirve
 
 //de cara al server local el que sirve son estos 2
-import 'bootstrap/js/src/button.js'
-import 'bootstrap/js/src/dropdown'
-import 'bootstrap/js/dist/carousel.js'
+//import 'bootstrap/js/src/button.js'
+//import 'bootstrap/js/src/dropdown'
+//import 'bootstrap/js/dist/carousel.js'
 //de cara al server local el que sirve son estos 2
 import './index.css'
 import Inicio from './router/Inicio.jsx'
