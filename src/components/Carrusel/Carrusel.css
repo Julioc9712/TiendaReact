@@ -4,13 +4,13 @@
     
 }
 .carousel-bg{
-    display: flex;
-    justify-content: center;
-    margin: 2rem auto;
-    padding: 5rem;
+    
+    width: 70%;
+    margin: 8rem auto;
+    
+    
 }
 .carousel{
-    width: 80rem;
     border: 2px solid cornflowerblue ;
     border-radius: 10px;
     filter: drop-shadow(0 0 10px #64c1ff);
@@ -18,10 +18,9 @@
 }
 
 @media screen and (max-width:600px){
-    .slide img{
-        
-        height: 200px;
+    .carousel-bg{
+        width: 85%;
     }
-   
+    
     
 }
