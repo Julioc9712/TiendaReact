@@ -30,7 +30,7 @@ function About() {
           <p>
             juliocmr97@gmail.com</p>
 
-          <h2>Link <i class="bi bi-box-arrow-up-right"></i></h2>
+          <h2><i class="bi bi-box-arrow-up-right"></i>Link </h2>
           <a href="#" target='__blanck'>CubanoShopAgency</a>
 
           </div >
