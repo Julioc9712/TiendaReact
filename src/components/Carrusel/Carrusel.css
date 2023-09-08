@@ -21,6 +21,8 @@
     .carousel-bg{
         width: 85%;
     }
-    
+    .slide img{
+        height: 250px;
+    }    
     
 }
