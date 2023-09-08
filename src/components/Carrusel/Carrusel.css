@@ -1,22 +1,27 @@
 
 .slide img{
-    margin-top: 50px;
     border-radius: 10px;
-    height: 65vh;
-    border: 1px white;
-
+    
 }
-
+.carousel-bg{
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+    padding: 5rem;
+}
 .carousel{
-    width: 70%;
-    margin: 50px auto;
+    width: 80rem;
+    border: 2px solid cornflowerblue ;
+    border-radius: 10px;
+    filter: drop-shadow(0 0 10px #64c1ff);
+    
 }
 
 @media screen and (max-width:600px){
     .slide img{
-        height: 30VH;
+        
+        height: 200px;
     }
-    .carousel{
-        width: 95%;
-    }
+   
+    
 }

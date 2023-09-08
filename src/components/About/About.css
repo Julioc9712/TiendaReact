@@ -1,5 +1,5 @@
 .contenedor-about{
-    margin-top: 10rem;
+    margin-top: 1rem;
     text-align: left;
     color: white;
     margin-bottom: 10rem;
@@ -9,7 +9,8 @@
     font-size: 70px;
     margin-bottom: 5rem;
     text-align: center;
-    text-shadow: 2px 2px rgb(6, 123, 231);
+    text-shadow: 1px 1px #002dc0;
+    
 }
 .contenedor-acerca{
     display: block;
@@ -17,15 +18,17 @@
 }
 .contenedor-acerca h2{
     font-size: 40px;
-    text-shadow: 1px 1px rgb(6, 123, 231);
+    text-shadow: 1px 1px #002dc0;
     margin-bottom: 20px;
     text-align: center;
+    
 }
 .contenedor-acerca .redes a i{
-    padding: 10px;
-    font-size: 50px;
+    padding: 15px;
+    font-size: 40px;
     margin: 20px auto;
-    color: #018baa;
+    text-shadow: 1px 1px #002dc0;
+    color: white;
     
 }
 .contenedor-acerca .redes a i:hover{
@@ -34,24 +37,27 @@
 .contenedor-acerca p{
     width: 50%;
     margin:10px auto;
-    height: 200px;
-    font-size: 35px;
-    color: white;
+    height: 150px;
+    font-size: 30px;
     text-align: center;
-    text-shadow: 1px 1px #018baa;
+    background-color: white;
+    color: #5772ca;
+    border-radius: 30px;
+    padding: 10px;
+    
 }
 
 .logo img{
     border: #018baa 5px solid;
     width: 550px;
-    height: 600px;
+    height: 550px;
     margin: auto;
-    border-radius: 5px;
+    border-radius: 50px;
     
 }
 
 .contenedor-info{
-    margin-top: 10rem;
+    margin-top: 5rem;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -61,26 +67,32 @@
 }
 
 .info h2{
-    font-size: 50px;
-    color: #018baa;
+    font-size: 40px;
+    color: #4a71f0;
     margin-bottom: 10px;
 }
 
 .info p{
     width: 650px;
-    font-size: 30px;
-    text-shadow: 2px 2px black;
+    font-size: 20px;
+    background-color: white;
+    color: #5772ca;
+    border-radius: 10px;
+    padding: 10px;
 }
 
 .info h2 i{
-    margin-left: 5px;
+    padding-right: 10px;
     align-items: center;
 }
 
 .info a{
+    background-color: white;
+    color: #5772ca;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
     text-decoration: none;
-    font-size: 30px;
-    color: white;
 }
 .info a:hover{
     color: #03c6f1;
@@ -98,8 +110,8 @@
         width: 400px;
     }
     .contenedor-acerca p{
-        width: 80%;
-        height: 300px;
+        width: 90%;
+        height: 350px;
         
         
     }
@@ -114,7 +126,7 @@
     }
     .logo img{
         width: 350px; 
-        margin-top: 25vh;
+        
     }
     .info p{
         width: 350px;

@@ -4,7 +4,7 @@
     top: 0;
     left: 0;
     z-index: 99;
-    background-image: linear-gradient(60deg, #22262b 0%, #13171b 100%);
+    background-color: black;
 }
 #navbarNavDropdown{
     justify-content: center;
@@ -30,6 +30,7 @@
     border:3px #68a0e0 solid ;
     margin-left: 15px;
     border-radius: 5px;
+    
     
 }
 

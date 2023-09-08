@@ -3,7 +3,7 @@ import './Carrusel.css'
 
 function Carrusel() {
   return (
-    <div className='bg-img' id='Home'>
+    <div className='carousel-bg' id='Home'>
         <div id="carouselExampleFade" class="carousel carousel-dark slide carousel-fade " data-bs-ride="carousel">
             
             <div class="carousel-inner">
