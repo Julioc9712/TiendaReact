@@ -1,7 +1,7 @@
 
 .slide img{
     border-radius: 10px;
-    height: 600px;
+    height: 700px;
     
 }
 .carousel-bg{
@@ -17,10 +17,18 @@
     filter: drop-shadow(0 0 10px #64c1ff);
     
 }
-
-@media screen and (max-width:600px){
+@media screen and (max-width:1400px){
     .carousel-bg{
         width: 90%;
+        
+    }
+    .slide img{
+        height: 500px;
+    }
+}
+@media screen and (max-width:600px){
+    .carousel-bg{
+        width: 95%;
         
     }
     .slide img{
