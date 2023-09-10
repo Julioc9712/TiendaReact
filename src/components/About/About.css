@@ -74,7 +74,7 @@
     height: 550px;
     margin: auto;
     border-radius: 20px;
-    filter: drop-shadow(0 0 2px cyan);
+    filter: drop-shadow(0 0 5px #018baa);
 
 }
 
