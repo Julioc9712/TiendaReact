@@ -9,6 +9,7 @@
     color: white;
     font-size: 70px;
     margin-bottom: 3rem;
+    margin-bottom: 3rem;
     text-align: center;
     text-shadow: 1px 1px #002dc0;
 
@@ -45,6 +46,7 @@
     margin: 10px auto;
     height: 150px;
     font-size: 25px;
+    font-size: 25px;
     text-align: center;
     background-color: white;
     color: #5772ca;
@@ -79,6 +81,7 @@
     margin-top: 5rem;
     display: flex;
     justify-content: center;
+    align-items: center;
     align-items: center;
     flex-wrap: wrap;
     gap: 10vh;
