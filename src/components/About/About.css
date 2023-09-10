@@ -69,11 +69,12 @@
 }
 
 .logo img {
-    border: #018baa 5px solid;
+    border: #018baa 1px solid;
     width: 550px;
     height: 550px;
     margin: auto;
-    border-radius: 50px;
+    border-radius: 20px;
+    filter: drop-shadow(0 0 2px cyan);
 
 }
 
@@ -161,8 +162,8 @@
     }
 
     .logo img {
-        width: 350px;
-        height: 350px;
+        width: 300px;
+        height: 300px;
 
     }
 
