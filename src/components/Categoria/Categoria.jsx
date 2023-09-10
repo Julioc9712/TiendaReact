@@ -6,25 +6,25 @@ function Categoria() {
             <div className="card" >
                 <img src="images/Servicios/servicio.jpg" className="card-img-top" alt="..." />
                 <div className="card-body">
-                    <a href="#" className="bton">Ir a Servicios</a>
+                    <a href="/services" className="bton">Ir a Servicios</a>
                 </div>
             </div>
             <div className="card" >
                 <img src="images/Productos/MotoElectrica/motos.jpg" className="card-img-top" alt="..." />
                 <div className="card-body">
-                    <a href="#" className="bton">Ir a Motos Electricas</a>
+                    <a href="/motos" className="bton">Ir a Motos Electricas</a>
                 </div>
             </div>
             <div className="card" >
                 <img src="images/Productos/Electrodomesticos/electrodomésticos.jpg" className="card-img-top" alt="..." />
                 <div className="card-body">
-                    <a href="#" className="bton">Ir a Electrodomesticos</a>
+                    <a href="/Electrodomestico" className="bton">Ir a Electrodomesticos</a>
                 </div>
             </div>
             <div className="card" >
                 <img src="images/Productos/Celulares/celulares.jpg" className="card-img-top" alt="..." />
                 <div className="card-body">
-                    <a href="#" className="bton">Ir a Celulares</a>
+                    <a href="/Celulares" className="bton">Ir a Celulares</a>
                 </div>
             </div>
             
