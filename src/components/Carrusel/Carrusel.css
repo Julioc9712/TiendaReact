@@ -1,11 +1,12 @@
 
 .slide img{
     border-radius: 10px;
+    height: 600px;
     
 }
 .carousel-bg{
     
-    width: 70%;
+    width: 80%;
     margin: 8rem auto;
     
     
@@ -19,7 +20,7 @@
 
 @media screen and (max-width:600px){
     .carousel-bg{
-        width: 85%;
+        width: 90%;
         
     }
     .slide img{

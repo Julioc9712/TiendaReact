@@ -1,42 +1,48 @@
-.contenedor-about{
+.contenedor-about {
     margin-top: 1rem;
     text-align: left;
     color: white;
     margin-bottom: 10rem;
 }
-.contenedor-about h1{
+
+.contenedor-about h1 {
     color: white;
     font-size: 70px;
     margin-bottom: 3rem;
     text-align: center;
     text-shadow: 1px 1px #002dc0;
-    
+
 }
-.contenedor-acerca{
+
+.contenedor-acerca {
     display: block;
     text-align: center;
 }
-.contenedor-acerca h2{
+
+.contenedor-acerca h2 {
     font-size: 40px;
     text-shadow: 1px 1px #002dc0;
     margin-bottom: 20px;
     text-align: center;
-    
+
 }
-.contenedor-acerca .redes a i{
+
+.contenedor-acerca .redes a i {
     padding: 15px;
     font-size: 40px;
     margin: 20px auto;
     text-shadow: 1px 1px #002dc0;
     color: white;
-    
+
 }
-.contenedor-acerca .redes a i:hover{
+
+.contenedor-acerca .redes a i:hover {
     color: #03c6f1;
 }
-.contenedor-acerca p{
+
+.contenedor-acerca p {
     width: 50%;
-    margin:10px auto;
+    margin: 10px auto;
     height: 150px;
     font-size: 25px;
     text-align: center;
@@ -44,36 +50,49 @@
     color: #5772ca;
     border-radius: 30px;
     padding: 15px;
-    
+
 }
 
-.logo img{
+.bton {
+    border: 2px solid cyan;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    font-size: 18px;
+    font-weight: 500;
+    color: #4a71f0;
+    margin-top: 2rem;
+}
+
+.logo img {
     border: #018baa 5px solid;
     width: 550px;
     height: 550px;
     margin: auto;
     border-radius: 50px;
-    
+
 }
 
-.contenedor-info{
+.contenedor-info {
     margin-top: 5rem;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     gap: 10vh;
-   
-    
+
+
 }
 
-.info h2{
+.info h2 {
     font-size: 40px;
     color: #4a71f0;
     margin-bottom: 10px;
 }
 
-.info p{
+.info p {
     width: 650px;
     font-size: 20px;
     background-color: white;
@@ -82,12 +101,12 @@
     padding: 10px;
 }
 
-.info h2 i{
+.info h2 i {
     padding-right: 10px;
     align-items: center;
 }
 
-.info a{
+.info a {
     background-color: white;
     color: #5772ca;
     border-radius: 10px;
@@ -95,60 +114,72 @@
     font-size: 20px;
     text-decoration: none;
 }
-.info a:hover{
+
+.info a:hover {
     color: #03c6f1;
     text-decoration: underline;
 }
-@media screen and (max-width:1380px){
-    .contenedor-acerca p{
-        height: 170px; 
+
+@media screen and (max-width:1380px) {
+    .contenedor-acerca p {
+        height: 170px;
         padding: 5px;
     }
 }
+
 @media screen and (max-width:1050px) {
-    .logo img{
-        
+    .logo img {
+
         width: 400px;
         height: 400px;
         border: #018baa 2PX solid;
-        
+
     }
-    .info p{
+
+    .info p {
         width: 400px;
     }
-    .contenedor-acerca p{
+
+    .contenedor-acerca p {
         width: 90%;
-        height: 130px; 
+        height: 130px;
         font-size: 22px;
     }
 }
-@media screen and (max-width:600px){
-    .contenedor-about h1{
+
+@media screen and (max-width:600px) {
+    .contenedor-about h1 {
         width: 100%;
         font-size: 40px;
     }
-    .contenedor-about h2{
+
+    .contenedor-about h2 {
         font-size: 25px;
     }
-    .logo img{
+
+    .logo img {
         width: 350px;
-        height: 350px; 
-        
+        height: 350px;
+
     }
-    .info p{
+
+    .info p {
         width: 350px;
     }
-    .info h2{
+
+    .info h2 {
         font-size: 25px;
     }
-    .info p{
+
+    .info p {
         font-size: 20px;
     }
-    .contenedor-acerca p{
+
+    .contenedor-acerca p {
         height: 170px;
         padding: 10px;
         font-size: 20px;
-        
-        
+
+
     }
 }
