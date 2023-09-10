@@ -47,6 +47,7 @@ footer .link a:hover{
     }
     footer .link a{
         font-size: 20px;
+        margin-right: 3rem;
     }
     
 }
