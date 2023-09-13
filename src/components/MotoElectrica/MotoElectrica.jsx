@@ -35,7 +35,7 @@ function ComboPinar() {
               </div>
           </div>
           <div className="card">
-              <img src="/images/Productos/MotoElectrica/WHITE SHARK.webp" className="card-img-top" alt="..." />
+              <img src="/images/Productos/MotoElectrica/WHITE SHARK.jpg" className="card-img-top" alt="..." />
               <div className="card-body">
                   <h5 className="card-title"> MISHOZUKI WHITE SHARK ION 45AH </h5>
                   <p className="card-text"><br />
