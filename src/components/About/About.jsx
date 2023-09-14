@@ -11,8 +11,8 @@ function About() {
         <div className='contenedor-acerca '>
           <h2>"Agencias de servicios y productos para toda Cuba"</h2>
           <div className="redes">
-            <a href="#" target='__blanck'><i className="bi bi-facebook"></i></a>
-            <a href="#" target='__blanck'><i className="bi bi-instagram"></i></a>
+            <a href="#" ><i className="bi bi-facebook"></i></a>
+            <a href="#" ><i className="bi bi-instagram"></i></a>
             <a href="https://wa.me/+5352990719?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20sus%20servicios%20o%20productos" target='__blanck'><i className="bi bi-whatsapp"></i></a>
 
           </div>
@@ -65,7 +65,7 @@ function About() {
               juliocmr97@gmail.com</p>
 
             <h2><i className="bi bi-box-arrow-up-right"></i>Link </h2>
-            <a href="#" target='__blanck'>CubanoShopAgency</a>
+            <a href="#" >CubanoShopAgency</a>
 
           </div >
 

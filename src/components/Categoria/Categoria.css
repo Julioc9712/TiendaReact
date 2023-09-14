@@ -1,7 +1,8 @@
 section h1{
     text-align: center;
     font-size: 40px;
-    color: #4a71f0;
+    text-shadow: 1px 1px #002dc0;
+    color: white;
     margin-bottom: 2rem;
     text-align: center;
 }
