@@ -13,7 +13,7 @@ function CardCelulares() {
                 ✅ REGALAMOS: cable, cargador, audífonos, cover y mica. <br />
                 ✅ Entregas en La Habana en menos de 24 horas. <br />
                 ✅ Demás provincias máximo 5 días.</p>
-              <a href="https://wa.me/+18135859754?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20celular%20Samsung%20Galaxy %20S21%20precio%20$360" target='__blanck' className="btn btn-primary">¡Precio $360!💵</a>
+              <a href="https://wa.me/+5352990719?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20celular%20Samsung%20Galaxy %20S21%20precio%20$360" target='__blanck' className="btn btn-primary">¡Precio $360!💵</a>
           </div>
         </div>
         <div className="card" id='card-cell'>
@@ -24,7 +24,7 @@ function CardCelulares() {
                 ✅ REGALAMOS: cable, cargador, audífonos, cover y mica. <br />
                 ✅ Entregas en La Habana en menos de 24 horas. <br />
                 ✅ Demás provincias máximo 5 días.</p>
-                  <a href="https://wa.me/+18135859754?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20Tablet%20Uniq%2010.1 %20precio%20$160" target='__blanck' className="btn btn-primary">¡Precio $160!💵</a>
+                  <a href="https://wa.me/+5352990719?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20Tablet%20Uniq%2010.1 %20precio%20$160" target='__blanck' className="btn btn-primary">¡Precio $160!💵</a>
             </div>
         </div>
         <div className="card" id='card-cell'>
@@ -35,7 +35,7 @@ function CardCelulares() {
                 ✅ REGALAMOS: cable, cargador, audífonos, cover y mica. <br />
                 ✅ Entregas en La Habana en menos de 24 horas. <br />
                 ✅ Demás provincias máximo 5 días.</p>
-                <a href="https://wa.me/+18135859754?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20Celular%20Tecno%20Spark%2010C %20precio%20$170" target='__blanck' className="btn btn-primary">¡Precio $170!💵</a>
+                <a href="https://wa.me/+5352990719?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20Celular%20Tecno%20Spark%2010C %20precio%20$170" target='__blanck' className="btn btn-primary">¡Precio $170!💵</a>
               </div>
         </div>
         <div className="card" id='card-cell'>
@@ -46,7 +46,7 @@ function CardCelulares() {
                 ✅ REGALAMOS: cable, cargador, audífonos, cover y mica. <br />
                 ✅ Entregas en La Habana en menos de 24 horas. <br />
                 ✅ Demás provincias máximo 5 días.</p>
-                <a href="https://wa.me/+18135859754?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20Celular%20Tecno%20Spark%20Go %20precio%20$165" target='__blanck'className="btn btn-primary">¡Precio $165!💵</a>
+                <a href="https://wa.me/+5352990719?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20Celular%20Tecno%20Spark%20Go %20precio%20$165" target='__blanck'className="btn btn-primary">¡Precio $165!💵</a>
             </div>
         </div>
         <div className="card" id='card-cell'>
@@ -57,7 +57,7 @@ function CardCelulares() {
                 ✅ REGALAMOS: cable, cargador, audífonos, cover y mica. <br />
                 ✅ Entregas en La Habana en menos de 24 horas. <br />
                 ✅ Demás provincias máximo 5 días.</p>
-                <a href="https://wa.me/+18135859754?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20Celular%20Xiaomi%20de%20los%20disponibles%20en%20el%20momento" target='__blanck' className="btn btn-primary">¡Precio $145/155/165!💵</a>
+                <a href="https://wa.me/+5352990719?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20Celular%20Xiaomi%20de%20los%20disponibles%20en%20el%20momento" target='__blanck' className="btn btn-primary">¡Precio $145/155/165!💵</a>
             </div>
         </div>
         <div className="card" id='card-cell'>
@@ -68,7 +68,7 @@ function CardCelulares() {
                 ✅ REGALAMOS: cable, cargador, audífonos, cover y mica. <br />
                 ✅ Entregas en La Habana en menos de 24 horas. <br />
                 ✅ Demás provincias máximo 5 días.</p>
-                <a href="https://wa.me/+18135859754?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20Celular%20Xiaomi%20de%20los%20disponibles%20en%20el%20momento" target='__blanck' className="btn btn-primary">¡Precio $170/175/190!💵</a>
+                <a href="https://wa.me/+5352990719?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20Celular%20Xiaomi%20de%20los%20disponibles%20en%20el%20momento" target='__blanck' className="btn btn-primary">¡Precio $170/175/190!💵</a>
             </div>
         </div>
         <div className="card" id='card-cell'>
@@ -79,7 +79,7 @@ function CardCelulares() {
                 ✅ REGALAMOS: cable, cargador, audífonos, cover y mica. <br />
                 ✅ Entregas en La Habana en menos de 24 horas. <br />
                 ✅ Demás provincias máximo 5 días.</p>
-                <a href="https://wa.me/+18135859754?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20Celular%20Xiaomi%20de%20los%20disponibles%20en%20el%20momento" target='__blanck' className="btn btn-primary">¡Precio $220/240!💵</a>
+                <a href="https://wa.me/+5352990719?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20Celular%20Xiaomi%20de%20los%20disponibles%20en%20el%20momento" target='__blanck' className="btn btn-primary">¡Precio $220/240!💵</a>
             </div>
         </div>
           
