@@ -29,7 +29,7 @@ function About() {
                 <img src="/images/Productos/Celulares/samsung.jpg"  alt="..." />
                 <div >
                   <h5 className="-title">Samsung Galaxy S21</h5>
-                  <a href="https://wa.me/+18135859754?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20celular%20Samsung%20Galaxy %20S21%20precio%20$360" target='__blanck' className="btn btn-primary">¡Precio $360!💵</a>
+                  <a href="https://wa.me/+5352990719?text=Buenas%20le%20contacto%20a%20traves%20de%20la%20pagina%20solicitando%20el%20celular%20Samsung%20Galaxy %20S21%20precio%20$360" target='__blanck' className="btn btn-primary">¡Precio $360!💵</a>
                 </div>
               </div>
               <div className="ventas">
